@@ -1,2 +1,2 @@
-See [wiki](wiki) for notes.
+See [wiki](https://github.com/vgheo/learn-git/wiki) for notes.
 
